@@ -1,0 +1,58 @@
+#EXTM3U
+
+### NEWS ###
+#EXTINF:-1 tvg-id="CNNBR" tvg-name="CNN Brasil" tvg-logo="https://example.com/logo_cnnbr.png" group-title="News",CNN Brasil
+https://www.youtube.com/@CNNBrasil/live
+
+#EXTINF:-1 tvg-id="G1" tvg-name="G1 Globo" tvg-logo="https://example.com/logo_bandnews.png" group-title="News",G1 Globo
+https://www.youtube.com/@g1globo/live
+
+#EXTINF:-1 tvg-id="RECORDNEWS" tvg-name="Record News" tvg-logo="https://example.com/logo_recordnews.png" group-title="News",Record News
+https://www.youtube.com/@recordnews/live
+
+#EXTINF:-1 tvg-id="JOVEMPAN_NEWS" tvg-name="Jovem Pan News" tvg-logo="https://example.com/logo_jpnews.png" group-title="News",Jovem Pan News
+https://www.youtube.com/@jovempannews/live
+
+#EXTINF:-1 tvg-id="BAND NEWS" tvg-name="Band News" tvg-logo="https://example.com/logo_jpnews.png" group-title="News",Band News
+https://www.youtube.com/@bandjornalismo
+
+
+### SPORTS ###
+#EXTINF:-1 tvg-id="BANDSPORTS" tvg-name="BandSports" tvg-logo="https://example.com/logo_bandsports.png" group-title="Sports",BandSports
+https://www.youtube.com/@EsportenaBand/live
+
+#EXTINF:-1 tvg-id="CAZETV" tvg-name="CazeTV" tvg-logo="https://example.com/logo_foxsports.png" group-title="Sports",CazeTV
+https://www.youtube.com/@CazeTV/live
+
+#EXTINF:-1 tvg-id="CANAL GOAT" tvg-name="Canal GOAT" tvg-logo="https://example.com/logo_espn2.png" group-title="Sports",Canal GOAT
+https://www.youtube.com/@canalgoatbr/live
+
+#EXTINF:-1 tvg-id="GE TV" tvg-name="GE TV" tvg-logo="https://example.com/logo_espn2.png" group-title="Sports",GE TV
+https://www.youtube.com/@getv/live
+
+#EXTINF:-1 tvg-id="NA REDE" tvg-name="Na Rede" tvg-logo="https://example.com/logo_espn2.png" group-title="Sports", Na Rede Oficial
+https://www.youtube.com/@NaRedeOficial/live
+
+#EXTINF:-1 tvg-id="TNT SPORTS BR" tvg-name="TNT Sports Br" tvg-logo="https://example.com/logo_espn2.png" group-title="Sports", TNT Sports Br
+https://www.youtube.com/@TNTSportsBR/live
+
+#EXTINF:-1 tvg-id="ESPN BRASIL" tvg-name="ESPN Brasil" tvg-logo="https://example.com/logo_espn2.png" group-title="Sports", ESPN Brasil
+https://www.youtube.com/@espnbrasil/live
+
+
+### ENTERTAINMENT ###
+#EXTINF:-1 tvg-id="SBT" tvg-name="SBT" tvg-logo="https://example.com/logo_sbt.png" group-title="Entertainment",SBT
+https://www.youtube.com/@sbt/live
+
+#EXTINF:-1 tvg-id="CULTURA" tvg-name="TV Cultura" tvg-logo="https://example.com/logo_cultura.png" group-title="Entertainment",TV Cultura
+https://www.youtube.com/@TVCulturaOficial/live
+
+
+### KIDS ###
+#EXTINF:-1 tvg-id="DISNEY" tvg-name="Disney Channel" tvg-logo="https://example.com/logo_disney.png" group-title="Kids",Disney Channel
+https://www.youtube.com/@DisneyChannelBrasil/live
+
+
+### CHRISTIAN ###
+#EXTINF:-1 tvg-id="NACAO FORTE" tvg-name="Nacao Forte" tvg-logo="https://example.com/logo_disney.png" group-title="Christian",Nacao Forte
+https://www.youtube.com/Na%C3%A7%C3%A3oForte/live
