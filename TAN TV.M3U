@@ -1,10 +1,10 @@
 #EXTM3U
 
 ### NEWS ###
-#EXTINF:-1 tvg-id="CNNBR" tvg-name="CNN Brasil" tvg-logo="https://example.com/logo_cnnbr.png" group-title="News",CNN Brasil
+#EXTINF:-1 tvg-id="CNNBR" tvg-name="CNN Brasil" tvg-logo="https://www.cnnbrasil.com.br/images/log-cnn-brasil-transparent.svg?w=117&h=116&crop=1" group-title="News",CNN Brasil
 https://www.youtube.com/@CNNBrasil/live
 
-#EXTINF:-1 tvg-id="G1" tvg-name="G1 Globo" tvg-logo="https://example.com/logo_bandnews.png" group-title="News",G1 Globo
+#EXTINF:-1 tvg-id="G1" tvg-name="G1 Globo" tvg-logo="https://seeklogo.com/images/G/g1-novo-logo-51C215A3D9-seeklogo.com.png" group-title="News",G1 Globo
 https://www.youtube.com/@g1globo/live
 
 #EXTINF:-1 tvg-id="RECORDNEWS" tvg-name="Record News" tvg-logo="https://example.com/logo_recordnews.png" group-title="News",Record News
